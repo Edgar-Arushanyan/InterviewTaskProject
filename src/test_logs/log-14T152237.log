@@ -1,0 +1,36 @@
+3484 [Test worker] INFO  com.ebay.fw.AppManager -- Test start in Chrome Browser
+6280 [Test worker] INFO  com.ebay.fw.AppManager -- Current url is https://www.ebay.de/
+6701 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: (//a[.='Elektronik'])[1]
+6799 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (238, 118)
+8846 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+8986 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 643)
+12036 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+12311 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 657)
+14989 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .s-item:nth-child(2) h3
+15265 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (480, 2647)
+15294 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+15361 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+15542 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+15599 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+15653 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+15718 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+15970 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-btn
+16038 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (1010, 47)
+16586 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: //ul/li/div/div[2]/a/div/span
+17968 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (509, 242)
+18101 [AsyncHttpClient-1-4] WARN  o.a.netty.handler.WebSocketHandler -- onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)

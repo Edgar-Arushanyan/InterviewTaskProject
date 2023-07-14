@@ -1,0 +1,20 @@
+15:30:05.096 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: (//a[.='Elektronik'])[1]
+^15:30:05.232 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (238, 118)
+Œ15:30:07.057 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+^15:30:07.200 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 643)
+Œ15:30:10.149 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+^15:30:10.714 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 657)
+„15:30:13.527 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .s-item:nth-child(2) h3
+_15:30:13.776 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (480, 2647)
+2Apple iPhone 12 - 128GB - Schwarz (Ohne Simlock)
+i15:30:13.802 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+]15:30:13.855 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+i15:30:14.001 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+]15:30:14.108 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+i15:30:14.154 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+]15:30:14.209 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+j15:30:14.406 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-btn
+^15:30:14.465 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (1010, 47)
+„15:30:14.937 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: //ul/li/div/div[2]/a/div/span
+^15:30:17.200 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (509, 237)
+ZNEUES ANGEBOTApple iPhone 12 GSM + CDMA 128GB - Schwarz (Ohne Simlock) 6,1" OLED Display
